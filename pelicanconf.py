@@ -72,3 +72,5 @@ CATEGORIES_URL = "categories/"
 CATEGORIES_SAVE_AS = "categories/index.html"
 AUTHOR_URL = "authors/{slug}/"
 AUTHOR_SAVE_AS = "authors/{slug}/index.html"
+
+SUMMARY_MAX_LENGTH = 100

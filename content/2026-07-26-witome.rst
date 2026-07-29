@@ -2,6 +2,7 @@ Witómë
 ######
 
 :date: 2026-07-26
+:modified: 2026-07-26
 :category: strona
 :slug: witome
 :authors: Piotr Kierzek
@@ -14,7 +15,9 @@ Witómë
 
    Oryginalne zdjęcie autorstwa `Hannie Heere <https://www.facebook.com/hannie.heere/>`_. (kliknij, aby zobaczyć pełny rozmiar)
 
-Witajcie na **siupnij.se**! Stronie, na którą można wejść i sobie siupnąć. Ta zupełnie nowa odsłona tej strony, którą macie przed oczami, ma na celu jej "profesjonalizację" i dostosowanie do oczekiwań zarówno internetu, jak i moich osobistych jeśli chodzi o to, do czego powinna służyć osobista witryna. Poprzednia wersja strony była naprawdę przesłodka i według mnie na swój sposób punkowa, łamiąc wszelkie zasady współćzesnego dobrego web designu, ale przez to też była dość uciążliwa w utrzymaniu. Konieczność tworzenia i następnie edycji czystego html i ogromny bałagan w stylach CSS sprawiał, że aktualizacje strony były jeszcze rzadsze niż mogłyby być i każda wiązała się tak naprawdę z rewolucją w strukturze i treści strony, a dodatkowo efekt końcowy był praktycznie nieużywalny na smartfonach i urządzeniach o rozdzielczościach innych, niż coś około Full HD. Jednakowoż, tak jak już zaznaczyłem, bardzo lubiłem stare *siupnij.se* i z nostalgią będę wspominał tę koślawą stronę.
+Witajcie na **siupnij.se**!
+
+Stronie, na którą można wejść i sobie siupnąć. Ta zupełnie nowa odsłona tej strony, którą macie przed oczami, ma na celu jej "profesjonalizację" i dostosowanie do oczekiwań zarówno internetu, jak i moich osobistych jeśli chodzi o to, do czego powinna służyć osobista witryna. Poprzednia wersja strony była naprawdę przesłodka i według mnie na swój sposób punkowa, łamiąc wszelkie zasady współćzesnego dobrego web designu, ale przez to też była dość uciążliwa w utrzymaniu. Konieczność tworzenia i następnie edycji czystego html i ogromny bałagan w stylach CSS sprawiał, że aktualizacje strony były jeszcze rzadsze niż mogłyby być i każda wiązała się tak naprawdę z rewolucją w strukturze i treści strony, a dodatkowo efekt końcowy był praktycznie nieużywalny na smartfonach i urządzeniach o rozdzielczościach innych, niż coś około Full HD. Jednakowoż, tak jak już zaznaczyłem, bardzo lubiłem stare *siupnij.se* i z nostalgią będę wspominał tę koślawą stronę.
 
 .. figure:: {static}/images/strona_old.png
    :alt: Wygląd strony siupnij.se przed 2026-07-26.
