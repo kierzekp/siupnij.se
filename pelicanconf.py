@@ -1,6 +1,8 @@
+import os
+
 AUTHOR = 'Piotr Kierzek'
 SITENAME = '>_ siupnij.se'
-SITEURL = ${SITE_URL}
+SITEURL = os.environ['SITE_URL']
 
 PATH = "content"
 
