@@ -11,5 +11,8 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v6
       - run: pip install pelican
-      - run: pelican content
+      - name: Generate content
+        env:
+          SITE_URL: ${{vars.SITE_URL}}
+        run: pelican content
       - run: ls output/
