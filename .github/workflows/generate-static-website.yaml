@@ -1,0 +1,15 @@
+name: Generate static website
+run-name: Create static output to deploy from repository contents
+# on:
+#   push:
+#     branches:
+#       - 'main'
+jobs:
+  build:
+    runs-on: ubuntu-slim
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v6
+      - run: pip install pelican
+      - run: pelican content
+      - run: ls output/

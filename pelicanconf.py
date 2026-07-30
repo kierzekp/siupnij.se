@@ -1,7 +1,6 @@
 AUTHOR = 'Piotr Kierzek'
 SITENAME = '>_ siupnij.se'
-SITEURL = "http://127.0.0.1:8000"
-# SITEURL = "https://siupnij.se"
+SITEURL = ${SITE_URL}
 
 PATH = "content"
 
